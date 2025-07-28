@@ -242,4 +242,5 @@ A curated collection of essential resources for computer engineering students at
 - [IEEE Computer Society](https://www.computer.org/) - Professional organization
 - [ACM Student Membership](https://www.acm.org/membership/student) - Computing professionals network
 
-*This repository is a work in progress. Don't hesitate to open a pull request or submit an issue.
+> [!NOTE]
+> This repository is a work in progress. Don't hesitate to open a pull request or submit an issue.
